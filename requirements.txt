@@ -1,0 +1,4 @@
+#barcode-python
+#Pillow
+#django
+#pip install  django-materializecss-form
