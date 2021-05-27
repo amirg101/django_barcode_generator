@@ -7,6 +7,8 @@ pip install django
 
 pip install python-barcode
 
+pip install Pillow
+
 pip install  django-materializecss-form
 
 # How to use:
